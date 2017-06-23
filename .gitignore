@@ -1,0 +1,5 @@
+#ignore idea file
+/.idea/*
+
+#ignore target
+/target/*
